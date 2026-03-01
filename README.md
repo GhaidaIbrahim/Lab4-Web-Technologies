@@ -33,3 +33,11 @@ This lab focused on mastering the **Django Template System**, implementing **Tem
 ## Lab Deliverables
 * **Source Code**: Full Django project structure with templates and static folders.
 * **Repository**: [GhaidaIbrahim/Lab4-Web-Technologies](https://github.com/GhaidaIbrahim/Lab4-Web-Technologies)
+
+### 4. Quick Start Guide (Terminal) 
+To run this project on my local machine, follow these steps in the terminal:
+* **Navigate to the Project Root:** `cd ~/Desktop/CS471/bookproject`
+* **Activate the Virtual Environment:** `source bin/activate`
+* **Enter the Web Application Directory:** `cd bookwebsite`
+* **Start the Development Server:** `python3 manage.py runserver`
+* **Access the Application:** Open your browser and visit: `http://127.0.0.1:8000/list_books/`
